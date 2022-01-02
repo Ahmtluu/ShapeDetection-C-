@@ -1,0 +1,5 @@
+﻿  ShapeDetection.cpp
+C:\Users\AhmtMtlu\Desktop\OpenCV Projects\ShapeDetection\ShapeDetection\ShapeDetection.cpp(23,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\AhmtMtlu\Desktop\OpenCV Projects\ShapeDetection\ShapeDetection\ShapeDetection.cpp(26,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\AhmtMtlu\Desktop\OpenCV Projects\ShapeDetection\ShapeDetection\ShapeDetection.cpp(33,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ShapeDetection.vcxproj -> C:\Users\AhmtMtlu\Desktop\OpenCV Projects\ShapeDetection\x64\Debug\ShapeDetection.exe
